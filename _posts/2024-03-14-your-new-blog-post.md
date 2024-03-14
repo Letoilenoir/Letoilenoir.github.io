@@ -10,5 +10,5 @@ Then I started toying with code, in a very, very amateur way. I was far too invo
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Letoilenoir&theme=github_dark" alt="Letoilenoir's GitHub Stats"/>
-    <a href="https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft">Foundational C#<\a>
+    <a href="https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft">Foundational C#</a>
 </div>

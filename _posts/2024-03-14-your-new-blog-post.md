@@ -16,6 +16,12 @@ But it was still just "something to do" in my spare time.
 As the new century dawned I found myself relocating to the North West of England, and the internet became even more essential for staying in touch with everyone
 Myspace came along and sort of mimicked the whole <a href="https://en.wikipedia.org/wiki/GeoCities">GeoCities</a> chaos - and creating an online presence became a thing.
 
+Around about this time I was heavily involved in providing a variety of spreadsheets for my employer, became the go-to-guy for Excel reports - formulas, lookups, pivot tables and, MACROS!
+Macros were wonderful, albeit frustrating and initially time consuming, but gave me tha ability to produce things in minutes what took hours to do manually! 
+However I soon learned that managing expections was an essential addition to this new productivity!
+
+The same employer was also transitioning its business from print to website, and the speed they executed this was phenomenal- they were employing web developers in large quanities on impressive renumeration - and this created an impression that it was a carrer to aspire to. 
+
 
 
 <div>

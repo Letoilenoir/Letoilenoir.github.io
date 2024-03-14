@@ -17,17 +17,14 @@ As the new century dawned I found myself relocating to the North West of England
 Myspace came along and sort of mimicked the whole <a href="https://en.wikipedia.org/wiki/GeoCities">GeoCities</a> chaos - and creating an online presence became a thing.
 
 Around about this time I was heavily involved in providing a variety of spreadsheets for my employer, became the go-to-guy for Excel reports - formulas, lookups, pivot tables and, MACROS!
-Macros were wonderful, albeit frustrating and initially time consuming, but gave me tha ability to produce things in minutes what took hours to do manually! 
-However I soon learned that managing expections was an essential addition to this new productivity!
+Macros were wonderful, albeit frustrating and initially time consuming, but gave me tha ability to produce things in minutes what took others hours to do manually! 
+
+However, I quickly realised that managing expections was an essential addition to this new productivity!
 
 The same employer was also transitioning its business from print to website, and the speed they executed this was phenomenal- they were employing web developers in large quanities on impressive renumeration - and this created an impression that it was a career to aspire to. 
 
 I enrolled at my local College of FE and took a course in Webpage Design, using Dreamweaver as as the deveolopment tool - I still have the Shoe Shop website that I built as part of the course - but for me the most significant event was the introduction to the <a href="https://csszengarden.com/">CSS Zen Garden</a>. 
 
-I e
+I fell in love with that site! Here was the webpage as an artform!
 
 
-
-<div>
-     I am currently working my way through the FreeCodeCamp course <a href="https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft">Foundational C#</a>
-</div>

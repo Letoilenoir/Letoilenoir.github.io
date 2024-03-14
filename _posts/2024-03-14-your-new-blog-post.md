@@ -14,7 +14,7 @@ Many of these new friends and aquaintances were already working in IT (many are 
 But it was still just "something to do" in my spare time.
 
 As the new century dawned I found myself relocating to the North West of England, and the internet became even more essential for staying in touch with everyone
-Myspace came along and sort of mimicked the whole <a href="https://en.wikipedia.org/wiki/GeoCities>GeoCities</a> chaos - and creating an online presence became a thing.
+Myspace came along and sort of mimicked the whole <a href="https://en.wikipedia.org/wiki/GeoCities">GeoCities</a> chaos - and creating an online presence became a thing.
 
 
 

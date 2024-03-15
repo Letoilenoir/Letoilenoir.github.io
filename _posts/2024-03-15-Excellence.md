@@ -1,7 +1,7 @@
 It doesn't have to be perfect to work. In fact sometimes getting the result is more important than how it is acheived.<br>
 As part of my journey I undertook to complete the FreeCodeCamp course <a href="https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft">Foundational C# with Microsoft</a>
 
-The course collates various modules sourced from the Microsoft Learn catalogue, to build a rudimentary umderstanding of C#, with certification offerred at the end. In one of the sections dealing with "if, else if, if" statement the second <a href="https://learn.microsoft.com/en-gb/training/modules/csharp-evaluate-boolean-expressions/6-challenge-2">challenge</a> threw me for a while.
+The course collates various modules sourced from the Microsoft Learn catalogue, to build a rudimentary umderstanding of C#, with certification offerred at the end. <br>In one of the sections dealing with "if, else if, if" statement the second <a href="https://learn.microsoft.com/en-gb/training/modules/csharp-evaluate-boolean-expressions/6-challenge-2">challenge</a> threw me for a while.
 My mind went blank, so i walked away from the challenge for a day or two.
 
 Then I had an epiphany. How would I solve the challenge using an Excel formula? <br>With a little thought it was obvious that a nested "if" statement would be one way of providing a solution! 

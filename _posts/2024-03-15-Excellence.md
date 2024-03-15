@@ -6,7 +6,27 @@ My mind went blank, so i walked away from the challenge for a day or two.
 
 Then I had an epiphany. How would I solve the challenge using an Excel formula? <br>With a little thought it was obvious that a nested "if" statement would be one way of providing a solution! 
 
-eg: <b> =if(B6="Admin","Welcome admin",if(B6="Manager","welcome manager","you do not have permission"))</b>
+    =if(B6="Admin","Welcome admin",if(B6="Manager","welcome manager","you do not have permission"))</b>
+ 
+In C# this translates to:
+    
+
+    
+    string B6 = ""; // Assign the value of B6 here
+    
+    if (B6 == "Admin")
+    {
+        Console.WriteLine("Welcome admin");
+    }
+    else if (B6 == "Manager")
+    {
+        Console.WriteLine("Welcome manager");
+    }
+    else
+    {
+        Console.WriteLine("You do not have permission");
+    }
+
 
 It might not be a direct analogy, but drawing on my experience in another domain and working through the steps I would take helped me navigate through this particular syntax of C#
 

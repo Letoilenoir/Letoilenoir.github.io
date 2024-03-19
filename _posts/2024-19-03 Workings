@@ -21,5 +21,4 @@ Quick breakdown of the code:
     {
         type = "Other";
     }
-
-    
+Because zeron indexing is used the first element of the product sku "01-MN=L" 

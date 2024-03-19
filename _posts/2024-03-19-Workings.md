@@ -1,0 +1,29 @@
+Quick breakdown of the code:
+    <b>string sku = "01-MN-L";</b>
+
+    string[] product = sku.Split('-');
+
+    string type = "";
+    string color = "";
+    string size = "";
+
+    if (product[0] == "01")
+    {
+        type = "Sweat shirt";
+    } else if (product[0] == "02")
+    {
+        type = "T-Shirt";
+    } else if (product[0] == "03")
+    {
+        type = "Sweat pants";
+    }
+    else
+    {
+        type = "Other";
+    }
+Because zero indexing is used, the first element of the product sku "01-MN=L" relates to the reference <b>product[0]</b><br> To construct the product code the seperator "-" is used, so in the code <b> string[] product = sku.Split('-')</b> allows us to split the product code into its three elements 
+
+Therefore:
+* product[0] = "01" (type)
+* product[1] = "MN" (color)
+* product[2] = "L"  (size)

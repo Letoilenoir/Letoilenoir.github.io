@@ -1,5 +1,5 @@
-    // Declare variables
-    string? readResult; // Variable to hold user input (nullable string)
+     // Declare variables
+     string? readResult; // Variable to hold user input (nullable string)
 
 In the above the <b>?</b> is an operator that allows for null input, in this instance either a valid string, or "null"<br>
 This allows for us to subsequently execute boolean operations on the input

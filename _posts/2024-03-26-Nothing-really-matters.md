@@ -50,6 +50,8 @@ this element of the "if" statement checks that the input is NOT null, and if so,
         }
      } while (validNumber == false); // Repeat the loop until a valid number is entered
 
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-8.0/nullable-reference-types">Microsoft Learn:C# Nullable reference types</a>
+
     
     Console.WriteLine($"Your input value ({numValue}) has been accepted.");// Display a message confirming acceptance of the input value
 

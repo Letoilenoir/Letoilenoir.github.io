@@ -1,3 +1,5 @@
+What is "null"?
+
      // Declare variables
      string? readResult; // Variable to hold user input (nullable string)
 

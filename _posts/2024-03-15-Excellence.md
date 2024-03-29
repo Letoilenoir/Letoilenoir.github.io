@@ -1,10 +1,3 @@
-<div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
-</div>
-
 It doesn't have to be perfect to work. In fact sometimes getting the result is more important than how it is acheived.<br>
 As part of my journey I undertook to complete the FreeCodeCamp course <a href="https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft">Foundational C# with Microsoft</a>
 

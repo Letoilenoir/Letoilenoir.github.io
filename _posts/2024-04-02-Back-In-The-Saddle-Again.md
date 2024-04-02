@@ -14,7 +14,8 @@
 So the first part involves declaring the variables we are going to use. Notice the "<b>?</b>" for the <b>readResult</B> variable, which allows a "<a href="https://letoilenoir.github.io/2024/03/26/Nothing-really-matters.html">null</a>" entry   
 
     Console.WriteLine("Enter a number between 5 and 10:");
-This is the request for the user to provide input.
+    
+<p>This is the request for the user to provide input.</p>
     
     do
     {

@@ -3,7 +3,7 @@
 <p>Although there were not that many, they seem to be tilted towards .NET MVC projects, and my time has been occupied with re-familiarising my self with that particular framework approach</p>
 <p>One particularly intriguing snippet weas a foray into imtegtratiung OAuth into an application - quite why I was investigating this I cannot recall, there must have been a reason, which just provides a good reason to document what I was doing and why!</p>
 <img src="https://github.com/Letoilenoir/Letoilenoir.github.io/blob/main/_posts/Screenshot%202024-04-02%20221206.png">
-<p>The actual OAuth functionality is suspended as I suspect the Authentication services I configured at the time may have expired. The other issue is that at the time I dont appear to have set up any pasword recovery option for the log-in!</p>
+<p>The actual OAuth functionality is suspended as I suspect the Authentication services I configured at the time may have expired. <br>The other issue is that at the time I dontt appear to have set up any pasword recovery option for the log-in!</p>
 <p>So returning to the task in hand, nanely understanding do-while statements in C#</p>
 
     using System.Runtime.CompilerServices;

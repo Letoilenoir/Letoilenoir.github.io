@@ -2,7 +2,7 @@
 <p>Although Ive paused working through the freeCodeCamp course over Easter, I've been scouring my old laptops for the projects that I started towards the end of my degree.</p>
 <p>Although there were not that many, they seem to be tilted towards .NET MVC projects, and my time has been occupied with re-familiarising my self with that particular framework approach</p>
 <p>One particularly intriguing snippet weas a foray into imtegtratiung OAuth into an application - quite why I was investigating this I cannot recall, there must have been a reason, which just provides a good reason to document what I was doing and why!</p>
-<p>So returning to the task in hand, nanely understanding do-while statements in C#
+<p>So returning to the task in hand, nanely understanding do-while statements in C#</p>
 
     using System.Runtime.CompilerServices;
 

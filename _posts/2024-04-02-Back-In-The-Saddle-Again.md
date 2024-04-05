@@ -5,7 +5,7 @@
 
 <img class="image" src="/docs/assets/Screenshot 2024-04-02 221206.png">
 
-<p>The actual OAuth functionality is suspended as I suspect the Authentication services I configured at the time may have expired. <br>The other issue is that at the time I dontt appear to have set up any pasword recovery option for the log-in!</p>
+<p>The actual OAuth functionality is suspended as I suspect the Authentication services I configured at the time may have expired. <br>The other issue is that at the time I don't appear to have set up any pasword recovery option for the log-in!</p>
 <p>So returning to the task in hand, nanely understanding do-while statements in C#</p>
 
     using System.Runtime.CompilerServices;

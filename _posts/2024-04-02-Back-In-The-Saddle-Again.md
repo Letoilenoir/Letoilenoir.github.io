@@ -1,12 +1,12 @@
 <b><i>(Aerosmith not Gene Autry)</i></b>
-<p>Although Ive paused working through the freeCodeCamp course over Easter, I've been scouring my old laptops for the projects that I started towards the end of my degree.</p>
-<p>Although there were not that many, they seem to be tilted towards .NET MVC projects, and my time has been occupied with re-familiarising my self with that particular framework approach</p>
-<p>One particularly intriguing snippet weas a foray into integrating OAuth into an application - quite why I was investigating this I cannot recall, there must have been a reason, which just illustrates a good reason to document what I was doing and why!</p>
+<p>Although I've paused working through the freeCodeCamp course over Easter, I've been scouring my old laptops for the projects that I started towards the end of my degree.</p>
+<p>Although there were not that many, they seem to be tilted towards .NET MVC projects, and my time has been occupied with re-familiarising myself with that particular framework/approach</p>
+<p>One particularly intriguing snippet was a foray into integrating OAuth into an application - quite why I was investigating this I cannot recall, there must have been a reason, which just illustrates a good reason to document what you are doing and and why!</p>
 
 <img class="image" src="/docs/assets/Screenshot 2024-04-02 221206.png">
 
-<p>The actual OAuth functionality is suspended as I suspect the Authentication services I configured at the time may have expired. <br>The other issue is that at the time I don't appear to have set up any pasword recovery option for the log-in!</p>
-<p>So returning to the task in hand, nanely understanding do-while statements in C#</p>
+<p>The actual OAuth functionality is suspended as I suspect the Authentication services I configured at the time may have expired. <br>The other issue is that at the time I don't appear to have set up any password recovery option for the log-in!</p>
+<p>Anyway, returning to the task in hand, nanely understanding do-while statements in C#</p>
 
     using System.Runtime.CompilerServices;
 
@@ -15,7 +15,7 @@
     int numValue =0;
     bool validNumber = false;
     
-So the first part involves declaring the variables we are going to use. Notice the "<b>?</b>" for the <b>readResult</B> variable, which allows a "<a href="https://letoilenoir.github.io/2024/03/26/Nothing-really-matters.html">null</a>" entry   
+So the first part involves declaring the variables we are going to use. <br>Notice the "<b>?</b>" for the <b>readResult</B> variable, which allows a "<a href="https://letoilenoir.github.io/2024/03/26/Nothing-really-matters.html">null</a>" entry   
 
     Console.WriteLine("Enter a number between 5 and 10:");
     

@@ -10,8 +10,13 @@
 
     using System.Runtime.CompilerServices;
 
-    string? readResult;
+    string? readResult; 
+Declares a nullable string variable named readResult. Nullable strings can hold a string value or a null reference.
+
     string valueEntered ="";
+
+Declares an empty string variable named valueEntered.
+    
     int numValue =0;
     bool validNumber = false;
     

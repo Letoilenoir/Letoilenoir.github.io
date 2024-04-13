@@ -18,9 +18,12 @@ Declares a nullable string variable named readResult. Nullable strings can hold 
 Declares an empty string variable named valueEntered.
     
     int numValue =0;
+Declares an integer variable named numValue and initializes it to 0.
+
     bool validNumber = false;
+Declares a boolean variable named validNumber and initializes it to false.
     
-So the first part involves declaring the variables we are going to use. <br>Notice the "<b>?</b>" for the <b>readResult</B> variable, which allows a "<a href="https://letoilenoir.github.io/2024/03/26/Nothing-really-matters.html">null</a>" entry   
+So, the first part involves declaring the variables we are going to use and, where neccessary initializing them. <br>Notice the "<b>?</b>" for the <b>readResult</B> variable, which allows a "<a href="https://letoilenoir.github.io/2024/03/26/Nothing-really-matters.html">null</a>" entry   
 
     Console.WriteLine("Enter a number between 5 and 10:");
     

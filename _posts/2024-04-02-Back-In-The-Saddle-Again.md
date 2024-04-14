@@ -31,7 +31,7 @@ So, the first part involves declaring the variables we are going to use and, whe
     
     do
     {
-Starts a do-while loop, ensuring the code block inside the loop executes at least once.
+Starts a do-while loop, ensuring the <a href="https://exceptionnotfound.net/csharp-in-simple-terms-5-basic-statements-and-loops/">code block</a> inside the loop executes at least once.
 
         readResult = Console.ReadLine();
 Reads the input from the user via the console and assigns it to the readResult variable.
@@ -42,7 +42,8 @@ Reads the input from the user via the console and assigns it to the readResult v
     }
 Checks if readResult is not null. If it's not null, assigns its value to valueEntered.
      
-     validNumber = int.TryParse(valueEntered, out numValue);
+    validNumber = int.TryParse(valueEntered, out numValue);
+
 Attempts to parse the string stored in valueEntered into an integer. If successful, assigns the parsed integer value to numValue and sets validNumber to true. Otherwise, validNumber remains false.
 
 
@@ -50,12 +51,16 @@ Attempts to parse the string stored in valueEntered into an integer. If successf
       if (validNumber == true)
       { 
 Checks if validNumber is true.
-    if (numValue <= 5 || numValue >= 10)
-    {
-    validNumber = false;
-    Console.WriteLine($"You entered {numValue}.Please enter a number between 5 and 10");
-    }
+
+     if (numValue <= 5 || numValue >= 10)
+     {
+     validNumber = false;
+     Console.WriteLine($"You entered {numValue}.Please enter a number between 5 and 10");
+     }
+
+
 Checks if numValue is less than or equal to 5 or greater than or equal to 10. If true, sets validNumber to false and prompts the user to enter a number between 5 and 10.
+
     } 
     else
     {  

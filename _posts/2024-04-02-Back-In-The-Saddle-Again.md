@@ -1,6 +1,6 @@
 <b><i>(Aerosmith not Gene Autry)</i></b>
 <p>Although I've paused working through the freeCodeCamp course over Easter, I've been scouring my old laptops for the projects that I started towards the end of my degree.</p>
-<p>Although there were not that many, they seem to be tilted towards .NET MVC projects, and my time has been occupied with re-familiarising myself with that particular framework/approach</p>
+<p>Strangely, they seem to be tilted towards .NET MVC projects, and my time has been occupied with re-familiarising myself with that particular framework/approach</p>
 <p>One particularly intriguing snippet was a foray into integrating OAuth into an application - quite why I was investigating this I cannot recall, there must have been a reason, which just illustrates a good reason to document what you are doing and and why!</p>
 
 <img class="image" src="/docs/assets/Screenshot 2024-04-02 221206.png">

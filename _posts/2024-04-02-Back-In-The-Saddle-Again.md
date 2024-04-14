@@ -65,12 +65,19 @@ Checks if numValue is less than or equal to 5 or greater than or equal to 10. If
     else
     {  
         Console.WriteLine("Sorry you entered an invalid number. Please try again");
+    }
         
 If validNumber is false, outputs a message indicating that the user entered an invalid number.
-    }
+
     } while (validNumber == false);
 
+Continues the loop as long as validNumber remains false.
+
     Console.WriteLine($"Your input value ({numValue}) has been accepted.");
+
+Outputs a message confirming that the user's input value has been accepted, including the accepted value (numValue).
+
+
 
     readResult = Console.ReadLine();
 

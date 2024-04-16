@@ -77,8 +77,8 @@ Continues the loop as long as validNumber remains false.
 
 Outputs a message confirming that the user's input value has been accepted, including the accepted value (numValue).
 
-<img class="image" src="/docs/assets/new.jpg">
-
     readResult = Console.ReadLine();
 
     </p>
+    
+<img class="image" src="/docs/assets/new.jpg">

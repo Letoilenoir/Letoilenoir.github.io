@@ -8,6 +8,7 @@ then press then <b>Control + K + C</b>:
 <img class="image" src="/docs/assets/commentedOut.png">
 
 In Visual Studio Code the same can be acheived using<b>Control + /</b>
+<p>
 <img class="image" src="/docs/assets/VSCcommentOut.png">
 <img class="image" src="/docs/assets/VSCcommentedOut.png">
 

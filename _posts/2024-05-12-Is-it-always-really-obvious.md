@@ -10,7 +10,7 @@ then press then <b>Control + K + C</b>:
 <p>In Visual Studio Code, first select the section<br>
 <img class="image" src="/docs/assets/VSCcommentOut.png">
   <br>
-  Click b>Control + /</b>:<br>
+  Click <b>Control + /</b>:<br>
 <img class="image" src="/docs/assets/VSCcommentedOut.png"></p>
 
 

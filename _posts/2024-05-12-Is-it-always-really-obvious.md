@@ -7,7 +7,7 @@ However, if you are not then the following may be helpful.</p>
 then press then <b>Control + K + C</b>:
 <img class="image" src="/docs/assets/commentedOut.png">
 
-Apparently it used to be <b>Control + /</b>, but there appears to have been an issue in Visual Studio 2022
+In Visual Studio Code the same can be acheived using<b>Control + /</b>
 
 
 

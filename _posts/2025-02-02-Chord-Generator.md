@@ -23,6 +23,6 @@ If the usere wants to continue building a sequence they repeat the above sequenc
 <img class="image" src="/docs/assets/Chord7.png" width = "100%">
 Once the User chooses to end the input they are presented with an option to give the progression a name
 <img class="image" src="/docs/assets/Chord8.png" width = "100%">
-
+Clicking "Okay" will save the MIDI file into the same directory that hosts the script
 <img class="image" src="/docs/assets/Chord9.png" width = "100%">
 

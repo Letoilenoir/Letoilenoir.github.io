@@ -1,5 +1,7 @@
 Chord - generate Chord/Chord Sequences to MIDI files
 <h1>Chord Generator (chordTen.py)</h1>
+<img class="image" src="/docs/assets/Chord0.png" width = "100%">
+<img class="image" src="/docs/assets/ChordTen.png" width = "100%">
 
 A small Python script for download.<br>
 Will generate either a single chord or a chord progression, allow the user to name the output and save to the same directory that contains the script itself.<br>

@@ -1,4 +1,4 @@
-img Flask_logo.png
+<img class="image" src="/docs/assets/img Flask_logo.png" width = "100%">
 
 Following of from introducing the Chord Python Script I decided to investigate the possibility of hosting the script via FLASK
 

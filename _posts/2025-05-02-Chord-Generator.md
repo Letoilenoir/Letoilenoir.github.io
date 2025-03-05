@@ -1,6 +1,6 @@
 Chord - generate Chord/Chord Sequences to MIDI files
 <h1>Chord Generator (chordTen.py)</h1>
-
+*Re-dated to reflect correct date*
 A small Python script for download.<br>
 Will generate either a single chord or a chord progression, allow the user to name the output and save to the same directory that contains the script itself.<br>
 Also gives the option of opening the newly created midi file in MuseScore Studio 4 or Windows Player Legacy

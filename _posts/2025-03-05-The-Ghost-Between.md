@@ -16,6 +16,7 @@ and finally activated:
 
     venv\Scripts\activate
 
+Having done this finally managed to get the app running locally:
 
-Next up the setting up of the 
+
 

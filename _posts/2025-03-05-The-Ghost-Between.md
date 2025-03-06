@@ -1,11 +1,11 @@
 <img class="image" src="/docs/assets/Flask_logo.png" width = "50%">
 
-Following of from introducing the <a href="https://letoilenoir.github.io/2025/02/05/Chord-Generator.html">Chord</a> Python Script, I decided to investigate the possibility of hosting the script via FLASK, as this could circumvent any ptential user having to jump through the hoops of installing Python to use the application.
+Following of from introducing the <a href="https://letoilenoir.github.io/2025/02/05/Chord-Generator.html">Chord</a> Python Script, I decided to investigate the possibility of hosting the script via FLASK, as this could circumvent any potential user having to jump through the hoops of installing Python to use it.
 
 Although this tutorial <a href="https://realpython.com/python-web-applications/">Python Web Applications: Deploy Your Script as a Flask App</a> is now a few years old, it provided a guide to the steps involved in setting this up.<br><BR>
-I had to spend some time sorting out the Python installation as apparently there is a known issue with version from Microsoft Store<br> This entailed removing the installed ones, as well as removing registry keys that kept invoking the MS version.
+I had to spend some time sorting out the Python installation as apparently there is a known issue with version from Microsoft Store.<br> This entailed removing the installed ones, as well as removing registry keys that kept invoking the MS version.
 
-Having successfully instaled the Python Foundation version, the virtual environment was created using this command:
+Having successfully installed the Python Foundation version, the virtual environment was created:
  
     python -m venv venv
 
@@ -42,7 +42,10 @@ Pasting the address into the browser returned the app on the web:<br>
 
 <img class="image" src="/docs/assets/localRun.png" width = "50%">
 
-It also seems that changing the version of Flask permitted the app to succesfully deploy on Google Cloud -previously a 502 Bad Gateway error was received when thrying to use Flask 2.1.2
+It would also seem that changing the version of Flask permitted the app to succesfully deploy on Google Cloud -previously a 502 Bad Gateway error was received when trying to use Flask 2.1.2
+
+<img class="image" src="/docs/assets/Google Cloud deployment.png" width = "50%">
+
     
 
 

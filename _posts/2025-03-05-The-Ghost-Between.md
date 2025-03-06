@@ -24,6 +24,9 @@ Once run the latest version of flask was revealed to be
 
     Successfully installed flask-3.1.0
 
+The version in the instructions (requirements.txt) is Flask==2.1.2 so this file was also edited to hopefully prevent this occuring
+    
+
 
     
 

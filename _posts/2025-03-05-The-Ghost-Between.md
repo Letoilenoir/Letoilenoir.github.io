@@ -16,7 +16,9 @@ and finally activated:
 
     venv\Scripts\activate
 
-Having done this finally managed to get the app running locally:
+Once the virtual environment was running Flask & Werkzeug needed to be updated:
+
+    pip install --upgrade flask werkzeug
 
 
 

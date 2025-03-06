@@ -20,5 +20,12 @@ Once the virtual environment was running Flask & Werkzeug needed to be updated:
 
     pip install --upgrade flask werkzeug
 
+Once run the latest version of flask was revealed to be
+
+    Successfully installed flask-3.1.0
+
+
+    
+
 
 

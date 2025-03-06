@@ -41,6 +41,8 @@ returned the confirmation
 Pasting the address into the browser returned the app on the web:<br>
 
 <img class="image" src="/docs/assets/localRun.png" width = "50%">
+
+It also seems that changing the version of Flask permitted the app to succesfully deploy on Google Cloud -previously a 502 Bad Gateway error was received when thrying to use Flask 2.1.2
     
 
 

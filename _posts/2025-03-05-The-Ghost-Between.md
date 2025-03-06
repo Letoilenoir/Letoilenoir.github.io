@@ -24,7 +24,7 @@ Once run the latest version of flask was revealed to be
 
     Successfully installed flask-3.1.0
 
-The version in the instructions (requirements.txt) is <b>Flask==2.1.2<b> so this file was also edited to hopefully prevent this occuring.
+The version in the instructions <i>(requirements.txt)</i> is <b>Flask==2.1.2 </b> so this file was also edited to hopefully prevent this occuring.
 
 Having made the neccesary adjustments running the command
 
@@ -40,7 +40,7 @@ Press CTRL+C to quit
  * Debugger is active!
  * Debugger PIN: ***-***-***
 
-And pasting the address into the browser returned the app on the web:
+And pasting the address into the browser returned the app on the web:<br>
 <img class="image" src="/docs/assets/localRun.png" width = "50%">
     
 

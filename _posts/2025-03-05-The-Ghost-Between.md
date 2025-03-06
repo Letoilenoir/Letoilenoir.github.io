@@ -1,4 +1,4 @@
-<img class="image" src="/docs/assets/Flask_logo.png" width = "100%">
+<img class="image" src="/docs/assets/Flask_logo.png" width = "50%">
 
 Following of from introducing the Chord Python Script I decided to investigate the possibility of hosting the script via FLASK
 

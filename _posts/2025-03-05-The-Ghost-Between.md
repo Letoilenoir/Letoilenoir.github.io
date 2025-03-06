@@ -31,16 +31,18 @@ Having made the neccesary adjustments running the command
     python main.py
 
 returned the confirmation
-     * Serving Flask app 'main'
- * Debug mode: on
-WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
- * Running on http://127.0.0.1:8080
-Press CTRL+C to quit
- * Restarting with stat
- * Debugger is active!
- * Debugger PIN: ***-***-***
+   
+    * Serving Flask app 'main'
+    * Debug mode: on
+    WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+    * Running on http://127.0.0.1:8080
+    Press CTRL+C to quit
+    * Restarting with stat
+    * Debugger is active!
+    * Debugger PIN: ***-***-***
 
-And pasting the address into the browser returned the app on the web:<br>
+Pasting the address into the browser returned the app on the web:<br>
+
 <img class="image" src="/docs/assets/localRun.png" width = "50%">
     
 

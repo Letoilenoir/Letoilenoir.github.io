@@ -9,5 +9,6 @@ When chosing to use a chord progression the first will display the only the root
 <img class="image" src="/docs/assets/ui1.png" width = "100%"><br>
 By selecting and and adding one to the progression, the next root note in the scale will automatically be highlighted:
 <img class="image" src="/docs/assets/ui2.png" width = "100%"><br>
+NB: This function does NOT automatically create a coherent progrerssion asccording to Music Theory as yet, it only presents the possible root notes that mastch the chosen Key Signature
 
 

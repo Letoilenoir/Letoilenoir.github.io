@@ -23,8 +23,8 @@ The second version has the same functionality i.e you can choose to create a pro
 Again, the choice of root notes will be restricted to those in the key signature:<br>
 <img class="image" src="/docs/assets/ui6.png" width = "100%"><br>
 <BR>
-Strictly speaking, when creating a progression using a key signature the type of chord should also be restricted:<br>
-<img class="image" src="/docs/assets/ui6.png" width = "100%"><br>
+Strictly speaking, when creating a progression using a key signature the type of chord should also be restricted as outlines on <a href="https://blog.landr.com/chord-progressions/">this</a> article, but that is probably a topic for the next release.<br>
+<img class="image" src="/docs/assets/ui7.png" width = "100%"><br>
 
 
 

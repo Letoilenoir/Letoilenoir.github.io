@@ -1,7 +1,7 @@
 Following on from the stand alone Chords Python script, although the tkinter GUI is adequate, a more polished interface may be appropriate for a web based application. <br>
 Below are are two variations created using the <a href="https://github.com/pygame/pygame">pygame</a> library<br> 
 <img class="image" src="/docs/assets/UI.png" width = "100%"><br>
-There are also a couple of enhacements made from the original <a href="https://github.com/Letoilenoir/chord/blob/main/chordTen.py">Chords</a> script, although the prototypes displayed are still purely python scripts, they have a more interactive feel.
+There are also a couple of enhancements made from the original <a href="https://github.com/Letoilenoir/chord/blob/main/chordTen.py">Chords</a> script, although the prototypes displayed are still purely python scripts, they have a more interactive feel.
 
 Both contain options to create chord progressions with or without key signatures.<br>
 Both show the selections added to the progression in the "Current Progression" frame<br>
@@ -17,8 +17,15 @@ When selecting and  adding one to the progression, no suggested subsequent root 
 <img class="image" src="/docs/assets/ui4.png" width = "100%"><br>
 <br>
 <br>
-The secnd option has the same  functionality i.e you can choose to create a progression
+The second version has the same functionality i.e you can choose to create a progression with opr without selecting a key signature<br>
 <img class="image" src="/docs/assets/ui5.png" width = "100%"><br>
+<br>
+Again, the choice of root notes will be restricted to those in the key signature:<br>
+<img class="image" src="/docs/assets/ui6.png" width = "100%"><br>
+<BR>
+Strictly speaking, when creating a progression using a key signature the type of chord should also be restricted:<br>
+<img class="image" src="/docs/assets/ui6.png" width = "100%"><br>
+
 
 
 

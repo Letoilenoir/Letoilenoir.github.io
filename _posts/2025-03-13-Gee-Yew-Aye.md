@@ -15,7 +15,10 @@ When chosing not to use a Key Signature the entire range of root notes are avail
 <img class="image" src="/docs/assets/ui3.png" width = "100%"><br>
 When selecting and  adding one to the progression, no suggested subsequent root note is displayed:
 <img class="image" src="/docs/assets/ui4.png" width = "100%"><br>
-
+<br>
+<br>
+The secnd option has the same  functionality i.e you can choose to create a progression
+<img class="image" src="/docs/assets/ui5.png" width = "100%"><br>
 
 
 
